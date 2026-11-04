@@ -27,3 +27,5 @@ Les deux projets CIEL sont des projets pédagogiques préparés avec une assista
 Progresser en développement, découvrir le support informatique et les réseaux, et apprendre à produire des outils utiles, lisibles et vérifiables.
 
 [Voir tous mes dépôts](https://github.com/itztov4r?tab=repositories)
+
+[**Essayer CIEL Support Desk en ligne**](https://itztov4r.github.io/ciel-support-desk/)
