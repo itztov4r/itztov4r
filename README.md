@@ -20,6 +20,7 @@ Je développe mes compétences en informatique à travers des projets concrets e
 | [CIEL Asset Audit](https://github.com/itztov4r/ciel-asset-audit) | Vérifier un inventaire CSV et générer un rapport HTML ; tests unitaires | Python |
 | [CIEL Subnet Lab](https://github.com/itztov4r/ciel-subnet-lab) | Calcul IPv4, visualisation binaire et découpage de sous-réseaux | HTML, CSS, JavaScript |
 | [CIEL Log Insight](https://github.com/itztov4r/ciel-log-insight) | Analyser des logs Apache et générer un rapport HTML | Python |
+| [TOV4R Code Quest](https://github.com/itztov4r/TOV4R-Code-Quest) | Apprendre HTML, CSS et JavaScript avec 30 missions et une progression privée | HTML, CSS, JavaScript, Supabase |
 | [Portfolio professionnel](https://github.com/itztov4r/Mehdi-Hmaiss) | Présenter mon parcours et mes projets | HTML, CSS, JavaScript |
 
 Les projets CIEL sont des projets pédagogiques préparés avec une assistance IA. Leurs README expliquent le fonctionnement, les choix techniques, les limites et les pistes d’apprentissage.
@@ -31,3 +32,4 @@ Progresser en développement, découvrir le support informatique et les réseaux
 [Voir tous mes dépôts](https://github.com/itztov4r?tab=repositories)
 
 [**Essayer CIEL Support Desk en ligne**](https://itztov4r.github.io/ciel-support-desk/)
+
