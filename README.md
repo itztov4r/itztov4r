@@ -1,34 +1,41 @@
 # Mehdi Hmaiss
 
-### Développement web & Python
+**Étudiant en Bac Pro CIEL · Développement web & Python**
 
 **Apprendre aujourd’hui. Construire demain.**
 
-Je développe mes compétences en informatique à travers des projets concrets et documentés.
+Je développe des projets pratiques autour du support informatique, des réseaux et du web.
 
-## Compétences
+### Compétences
+**HTML · CSS · JavaScript · Python**  
+Git · GitHub · Interfaces responsive · Documentation technique
 
-| Web | Programmation | Pratique |
-| --- | --- | --- |
-| HTML · CSS · JavaScript | Python | GitHub · interfaces responsive · documentation |
+### Projets à découvrir
 
-## Projets à découvrir
+**[CIEL Support Desk](https://itztov4r.github.io/ciel-support-desk/)**  
+Suivi des interventions, priorités et résolutions avec export CSV. **HTML · CSS · JavaScript**
 
-| Projet | Objectif | Technologies |
-| --- | --- | --- |
-| [CIEL Support Desk](https://github.com/itztov4r/ciel-support-desk) | Suivre les interventions, priorités et résolutions ; exporter en CSV | HTML, CSS, JavaScript |
-| [CIEL Asset Audit](https://github.com/itztov4r/ciel-asset-audit) | Vérifier un inventaire CSV et générer un rapport HTML ; tests unitaires | Python |
-| [CIEL Subnet Lab](https://github.com/itztov4r/ciel-subnet-lab) | Calcul IPv4, visualisation binaire et découpage de sous-réseaux | HTML, CSS, JavaScript |
-| [CIEL Log Insight](https://github.com/itztov4r/ciel-log-insight) | Analyser des logs Apache et générer un rapport HTML | Python |
-| [CIEL Diagnostic Trainer](https://itztov4r.github.io/Mehdi-Hmaiss/projects/ciel-diagnostic-trainer/) | Exercices interactifs de diagnostic informatique, 6 situations expliquées | HTML, CSS, JavaScript |
-| [Portfolio professionnel](https://github.com/itztov4r/Mehdi-Hmaiss) | Présenter mon parcours et mes projets | HTML, CSS, JavaScript |
+**[CIEL Asset Audit](https://itztov4r.github.io/ciel-asset-audit/)**  
+Contrôle d'inventaire informatique CSV avec rapports HTML. **Python**
 
-Les projets CIEL sont des projets pédagogiques préparés avec une assistance IA. Leurs README expliquent le fonctionnement, les choix techniques, les limites et les pistes d’apprentissage.
+**[CIEL Subnet Lab](https://itztov4r.github.io/ciel-subnet-lab/)**  
+Visualisation d'adresses IPv4 et découpage de sous-réseaux. **JavaScript**
 
-## Mon objectif
+**[CIEL Log Insight](https://itztov4r.github.io/ciel-log-insight/)**  
+Analyse pédagogique de journaux HTTP. **Python**
 
-Progresser en développement, découvrir le support informatique et les réseaux, et apprendre à produire des outils utiles, lisibles et vérifiables.
+**[CIEL Diagnostic Trainer](https://itztov4r.github.io/Mehdi-Hmaiss/projects/ciel-diagnostic-trainer/)**  
+Six exercices de diagnostic informatique avec explications. **HTML · CSS · JavaScript**
 
-[Voir tous mes dépôts](https://github.com/itztov4r?tab=repositories) · [CV actualisé](https://itztov4r.github.io/Mehdi-Hmaiss/cv.html)
+**[TOV4R Code Quest](https://itztov4r.github.io/TOV4R-Code-Quest/)**  
+Apprentissage ludique du HTML, du CSS et de JavaScript. **Web**
 
-[**Essayer CIEL Support Desk en ligne**](https://itztov4r.github.io/ciel-support-desk/)
+**[Portfolio professionnel](https://itztov4r.github.io/Mehdi-Hmaiss/)**  
+Mon parcours, mes compétences et mes projets. **HTML · CSS · JavaScript**
+
+> Les projets CIEL sont pédagogiques et ont été préparés avec assistance IA. Les README précisent les limites et les outils.
+
+### Me contacter
+[Mon portfolio](https://itztov4r.github.io/Mehdi-Hmaiss/) · [Mon CV actualisé](https://itztov4r.github.io/Mehdi-Hmaiss/cv.html) · [Tous mes dépôts](https://github.com/itztov4r?tab=repositories)
+
+**Objectif :** progresser en développement, réseaux et support informatique en réalisant des projets utiles et documentés.
