@@ -39,3 +39,18 @@ Mon parcours, mes compétences et mes projets. **HTML · CSS · JavaScript**
 [Mon portfolio](https://itztov4r.github.io/Mehdi-Hmaiss/) · [Mon CV actualisé](https://itztov4r.github.io/Mehdi-Hmaiss/cv.html) · [Tous mes dépôts](https://github.com/itztov4r?tab=repositories)
 
 **Objectif :** progresser en développement, réseaux et support informatique en réalisant des projets utiles et documentés.
+
+
+## Sites compatibles mobile
+
+Ces sites ont des interfaces pensées pour smartphone, tablette et ordinateur :
+
+| Projet | Ouvrir le site |
+| --- | --- |
+| Portfolio professionnel | [Mehdi Hmaiss](https://itztov4r.github.io/Mehdi-Hmaiss/) |
+| Portfolio gaming | [TOV4R Gaming](https://itztov4r.github.io/Tov4r/) |
+| TOV4R MUSIC | [Site, commandes et FAQ](https://itztov4r.github.io/Tov4r-bot-/) |
+| Bot Python TOV4R MUSIC | [Page de présentation](https://itztov4r.github.io/TOV4R-MUSIC/) |
+| CIEL Diagnostic Trainer | [Exercices interactifs](https://itztov4r.github.io/Mehdi-Hmaiss/projects/ciel-diagnostic-trainer/) |
+
+*La disponibilité d'une page GitHub Pages dépend de son déploiement. Le site d'un bot Discord ne prouve pas que le bot est en ligne.*
